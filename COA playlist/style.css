@@ -1,0 +1,59 @@
+body{
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuAM75rUWTML-E9SqHcKl_ee74Ver5hCxTw&usqp=CAU);
+    background-size:cover;
+    background-position: center center;
+background-attachment: fixed;
+ color: rgb(62, 32, 32); 
+
+}
+h1{
+color:rgb(16, 16, 16);
+}
+.stars i{
+    font-size: 1.5rem;
+    color:rgb(243, 201, 15);
+}
+.title{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 40rem;
+    font-size: 4rem;
+    text-align: center;
+    
+    }
+    .card {
+        width: 90%;
+        max-width: 400px;
+        
+        border-radius: 1rem;
+        border: 1px solid transparent;
+        backdrop-filter: blur(1rem);
+        box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);
+        border-top-color: rgba(239, 124, 124, 0.5);
+border-left-color: rgba(239, 124, 124, 0.5);
+border-bottom-color: rgba(122, 189, 241, 0.1);
+border-right-color: rgba(122, 189, 241, 0.1);
+        }
+
+.cb1{
+    background-color: rgba(225,225,225,0.1);
+}
+.btn{
+    color:rgb(235, 247, 8);
+    font-size:20px;
+    font-weight: bolder;
+    background-color: black;
+}
+.btn:hover{
+    color:rgb(10, 228, 240);
+}
+.job{
+    color:black;
+}
+.job:hover{
+    color:rgb(176, 137, 197);
+}
+p{
+    font-size:20px;
+}
